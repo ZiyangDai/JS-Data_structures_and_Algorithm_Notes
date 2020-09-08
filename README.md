@@ -14,3 +14,11 @@
 - [双向链表 Doubly Linked List](Documents/06_双向链表.md)
 - [集合 Set](Documents/07_集合组.md)
 
+## 方法封装
+
+- [栈的封装](封装/02栈/stack.js)
+- [队列的封装](封装/03队列/queue.js)
+- [优先队列的封装](封装/04优先队列/priorityQueue.js)
+- [单向链表的封装](封装/05单向链表/linkedList.js)
+- [双向链表的封装](封装/06双向链表/doublyLinkedList.js)
+- [集合的封装](封装/07集合/set.js)
