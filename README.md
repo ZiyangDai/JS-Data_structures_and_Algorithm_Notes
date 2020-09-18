@@ -13,7 +13,8 @@
 - [优先队列 Priority Queue](Documents/04_优先队列.md)
 - [单向链表 Linked List](Documents/05_单向链表.md)
 - [双向链表 Doubly Linked List](Documents/06_双向链表.md)
-- [集合 Set](Documents/07_集合组.md)
+- [集合 Set](Documents/07_集合.md)
+- [字典 Map](Documents/08_字典.md)
 
 ## 方法封装
 
