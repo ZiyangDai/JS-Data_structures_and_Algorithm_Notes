@@ -15,6 +15,7 @@
 - [双向链表 Doubly Linked List](Documents/06_双向链表.md)
 - [集合 Set](Documents/07_集合.md)
 - [字典 Map](Documents/08_字典.md)
+- [哈希表 Hash table](Documents/09_哈希表.md)
 
 ## 方法封装
 
