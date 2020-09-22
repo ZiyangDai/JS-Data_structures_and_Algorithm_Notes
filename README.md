@@ -16,6 +16,8 @@
 - [集合 Set](Documents/07_集合.md)
 - [字典 Map](Documents/08_字典.md)
 - [哈希表 Hash table](Documents/09_哈希表.md)
+- [树 Tree](Documents/10_树.md)
+- [二叉搜索树 Binary Tree](Documents/11_二叉搜索树.md)
 
 ## 方法封装
 
@@ -27,3 +29,5 @@
 - [集合的封装](封装/07集合/set.js)
 - [字典的封装](封装/08字典/map.js)
 - [哈希表的封装](封装/09哈希表/hashTable.js)
+- [树/二叉搜索树的封装](封装/10树/tree.js)
+
