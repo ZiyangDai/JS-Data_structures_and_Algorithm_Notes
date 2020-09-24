@@ -3,7 +3,7 @@
 + 根据B站 [《coderwhy的JavaScript数据结构与算法》](https://www.bilibili.com/video/BV1x7411L7Q7) 整理的学习笔记。
 + 代码部分均采用 ES6 编写，使用 webpack 和 babel 将 ES6 自动转换成 ES5。
 + 详细笔记：[数据结构和算法目录—简书](https://www.jianshu.com/p/38853c044156)
-+ 目前进度：76/155
++ 目前进度：94/155
 
 ## 文档目录
 
